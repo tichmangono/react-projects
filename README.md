@@ -1,2 +1,3 @@
 # react-projects
-15 projects code-along to practice react and javascript concepts
+
+20+ react and javascript projects code-along to practice concepts
